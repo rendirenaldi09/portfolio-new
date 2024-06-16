@@ -3,7 +3,7 @@ import Title from "./Title";
 import amazonClone from "../public/img/projects/amazonClone.webp";
 import cyberBlog from "../public/img/projects/github.png";
 import noorShop from "../public/img/projects/noorShop.webp";
-import dynamicPortfolio from "../public/img/projects/react.js.png";
+import dynamicPortfolio from "../public/img/projects/reactjs.png";
 import reactBD from "../public/img/projects/reactBD.png";
 import dashboard from "../public/img/projects/dashboard.webp";
 import Image from "next/image";
@@ -27,7 +27,7 @@ const Projects = () => {
         <ProjectCard
           img={cyberBlog.src}
           title="Github Profile"
-          link="https://blog.reactbd.com/"
+          link="https://github.com/rendirenaldi09"
         />
         <ProjectCard
           img={noorShop.src}
@@ -37,7 +37,7 @@ const Projects = () => {
         <ProjectCard
           img={dynamicPortfolio.src}
           title="ReactJS Portfolio"
-          link="https://amazonclone.reactbd.com/"
+          link="https://personal-portofolio-ashy.vercel.app/"
         />
 
         <ProjectCard
