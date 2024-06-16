@@ -21,7 +21,7 @@ const Contact = () => {
         <SocialLink title="Github" link="https://github.com/rendirenaldi09" />
         <SocialLink title="Youtube" link="https://www.youtube.com/@rendii_renaldii" />
         <SocialLink title="Instagram" link="https://www.instagram.com/rendii_renaldii" />
-        <SocialLink title="Facebook" link="https://www.facebook.com/Rendi Renaldi/" />
+        <SocialLink title="Discord" link="https://discord.com/invite/M53VjNcJWX" />
         <SocialLink title="Nextjs" link="https://vercel.com/rendirenaldi" />
       </div>
     </div>
