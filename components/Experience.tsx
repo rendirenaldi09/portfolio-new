@@ -20,13 +20,13 @@ const Experience = () => {
         />
         <ExperienceCard
           title="PT Bank Central Asia"
-          subTitle="Accounting Managemnt 2021 - 2022"
+          subTitle="Accounting Management 2021 - 2022"
           icon={<SiFreelancer />}
         />
 
         <ExperienceCard
           title="PT Tri Adi Bersama"
-          subTitle="Stafff Operational 2022 - 2023"
+          subTitle="Staff Operational 2022 - 2023"
           icon={<SiFiverr />}
         />
       </div>
