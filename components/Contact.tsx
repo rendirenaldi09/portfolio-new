@@ -19,7 +19,7 @@ const Contact = () => {
       </div>
       <div className="mt-8 flex items-center flex-wrap   gap-8 justify-center">
         <SocialLink title="Github" link="https://github.com/rendirenaldi09" />
-        <SocialLink title="Youtube" link="https://www.youtube.com/rendii_renaldii" />
+        <SocialLink title="Youtube" link="https://www.youtube.com/@rendii_renaldii" />
         <SocialLink title="Instagram" link="https://www.instagram.com/rendii_renaldii" />
         <SocialLink title="Facebook" link="https://www.facebook.com/Rendi Renaldi/" />
         <SocialLink title="Nextjs" link="https://vercel.com/rendirenaldi" />
