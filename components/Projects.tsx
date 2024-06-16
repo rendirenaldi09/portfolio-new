@@ -21,12 +21,12 @@ const Projects = () => {
         />
         <ProjectCard
           img={reactBD.src}
-          title="Github Profile"
+          title="Cyber Security"
           link="https://reactbd.com/"
         />
         <ProjectCard
           img={cyberBlog.src}
-          title="Cyber Security"
+          title="Github Profile"
           link="https://blog.reactbd.com/"
         />
         <ProjectCard
