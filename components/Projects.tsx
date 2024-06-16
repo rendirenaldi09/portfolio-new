@@ -1,7 +1,7 @@
 import { FaProjectDiagram } from "react-icons/fa";
 import Title from "./Title";
 import amazonClone from "../public/img/projects/amazonClone.webp";
-import cyberBlog from "../public/img/projects/cyberBlog.webp";
+import cyberBlog from "../public/img/projects/github.png";
 import noorShop from "../public/img/projects/noorShop.webp";
 import dynamicPortfolio from "../public/img/projects/dynamicPortfolio.png";
 import reactBD from "../public/img/projects/reactBD.png";
@@ -21,7 +21,7 @@ const Projects = () => {
         />
         <ProjectCard
           img={reactBD.src}
-          title="Cyber Security"
+          title="Github Profile"
           link="https://reactbd.com/"
         />
         <ProjectCard
