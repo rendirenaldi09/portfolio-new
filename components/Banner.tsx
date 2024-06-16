@@ -19,9 +19,9 @@ const Banner = () => {
           Full Stack Developer
         </h3>
         <p className="text-base tracking-wide text-center md:text-left">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugiat, cum
-          consequuntur soluta explicabo saepe voluptate atque accusantium quasi
-          perspiciatis, quos quaerat odit voluptatem, debitis culpa!
+          Halo semua..apakah kabar kalian? semoga semua dalam keadaan baik yah
+          Saya berasal dari Indonesia dan saya juga masih tahap pemula sebagai
+          full stack developer dan project yang saya kembangkan saat ini adalah GTA San Andreas Multiplayer
         </p>
       </div>
     </div>
