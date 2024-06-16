@@ -3,7 +3,7 @@ import Title from "./Title";
 import amazonClone from "../public/img/projects/amazonClone.webp";
 import cyberBlog from "../public/img/projects/github.png";
 import noorShop from "../public/img/projects/noorShop.webp";
-import dynamicPortfolio from "../public/img/projects/dynamicPortfolio.png";
+import dynamicPortfolio from "../public/img/projects/react.js.png";
 import reactBD from "../public/img/projects/reactBD.png";
 import dashboard from "../public/img/projects/dashboard.webp";
 import Image from "next/image";
@@ -36,7 +36,7 @@ const Projects = () => {
         />
         <ProjectCard
           img={dynamicPortfolio.src}
-          title="Dynamic Portfolio"
+          title="ReactJS Portfolio"
           link="https://amazonclone.reactbd.com/"
         />
 
